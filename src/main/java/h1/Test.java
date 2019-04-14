@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("By 2487");
 		System.out.println("AAAA");
 		System.out.println("BBBB");
+		System.out.println("CCCC");
 	
 	}
 }
